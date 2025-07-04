@@ -2,7 +2,7 @@
 is a fixed-supply digital token deployed on the Qubic blockchain, designed as the backbone for decentralized price discovery and synthetic assets as a quantum-resistant oracle
 
 # Features
-Fixed Supply: 100,000 BANKON PYTHAI tokens (full precision).
+Fixed Supply: 100000.000000000000 BANKON PYTHAI tokens (full precision).
 
 No Gas Fees: Qubic enables frictionless, high-frequency transactions and contract execution.
 
