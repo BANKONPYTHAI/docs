@@ -1,4 +1,4 @@
-BANKON PYTHAI is a fixed-supply digital token deployed on the Qubic blockchain, designed as the backbone for decentralized price discovery and synthetic assets using a quantum-resistant oracle system.
+BANKON PYTHAI is a fixed-supply digital token deployed on the Qubic blockchain, designed as the backbone for decentralized price discovery and synthetic assets as a quantum-resistant oracle
 
 Features
 Fixed Supply: 100,000 BANKON PYTHAI tokens (full precision).
